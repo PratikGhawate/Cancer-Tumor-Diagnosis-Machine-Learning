@@ -1,4 +1,3 @@
-# Cancer-Tumor-Diagnosis-Machine-Learning
 # Cancer Tumor Diagnosis with Machine Learning 🩺📊
 
 ## Introduction 📝
